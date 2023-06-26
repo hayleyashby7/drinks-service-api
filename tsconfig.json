@@ -3,7 +3,7 @@
 	"exclude": ["node_modules"],
 	"compilerOptions": {
 		"strict": true,
-		"target": "ES2022",
+		"target": "ES2016",
 		"module": "ES2015",
 		"moduleResolution": "node",
 		"rootDir": "./src",
