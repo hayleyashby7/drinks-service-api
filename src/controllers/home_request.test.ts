@@ -1,5 +1,4 @@
 import request from 'supertest';
-
 import { app } from '../../src/app';
 
 describe('Test home API endpoint request', () => {
