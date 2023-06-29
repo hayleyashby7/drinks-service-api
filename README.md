@@ -1,6 +1,6 @@
 # Drinks API
 
-## Enpoints
+## Endpoints
 
 ### Coffee
 
