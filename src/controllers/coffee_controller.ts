@@ -6,3 +6,5 @@ export const getCoffee = async (req: Request<object, object, object, { coffeeNam
 	const coffee = coffeeService.getCoffee(coffeeName);
 	res.json(coffee).status(200);
 };
+
+export const getCoffeeLover = async (req: Request, res: Response) => res.send(coffeeService.coffeeLover).status(200);
