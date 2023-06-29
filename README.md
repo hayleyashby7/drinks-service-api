@@ -22,7 +22,7 @@ GET /tea
 
 Optional query parameters of 'teaName' and 'temperature, which default to 'Earl Grey' and 'Hot' respectively, if not specified.
 
-### Running the application
+## Running the application
 
 In order to run the unit tests run, firstly install the dependencies
 
@@ -36,7 +36,7 @@ Followed by:
 npm start
 ```
 
-### Running the Unit Tests
+## Running the Unit Tests
 
 In order to run the unit tests run, firstly install the dependencies (if you haven't already done so)
 
